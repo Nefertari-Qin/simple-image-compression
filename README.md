@@ -1,1 +1,1 @@
-# image-flood-fill
+# simple-image-compression
